@@ -78,6 +78,13 @@ Weather Table
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Employee table after adding an attribute
+<img width="1235" height="741" alt="image" src="https://github.com/user-attachments/assets/15a7eea7-962d-4fee-85ab-dc9f8fc73c8e" />
+
+Weather table after adding and attriute
+<img width="1225" height="744" alt="image" src="https://github.com/user-attachments/assets/fc2ce33d-6bd0-4d18-b6d8-82f85ac338af" />
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
