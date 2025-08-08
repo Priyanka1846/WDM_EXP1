@@ -78,10 +78,10 @@ Weather Table
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Employee table after adding an attribute
+Employee table after adding new attribute Department:
 <img width="1235" height="741" alt="image" src="https://github.com/user-attachments/assets/15a7eea7-962d-4fee-85ab-dc9f8fc73c8e" />
 
-Weather table after adding and attriute
+Weather Table after adding new attribute Season:
 <img width="1225" height="744" alt="image" src="https://github.com/user-attachments/assets/fc2ce33d-6bd0-4d18-b6d8-82f85ac338af" />
 
 
@@ -101,10 +101,10 @@ Weather table after adding and attriute
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-Removing the last column in employee table
+Weather Table after removing attributes Department:
 <img width="1231" height="742" alt="image" src="https://github.com/user-attachments/assets/5a19b40e-3a00-40b0-87d9-a5d055eba627" />
 
-Removing last column in weather table
+Weather Table after removing attributes Season:
 <img width="1232" height="738" alt="image" src="https://github.com/user-attachments/assets/e8fa23e2-2208-4300-9661-81199d53e0b0" />
 
 
@@ -125,5 +125,11 @@ Removing last column in weather table
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+Employee Table after Normalizing ID, EXP:
+<img width="1229" height="733" alt="image" src="https://github.com/user-attachments/assets/8e246189-6a1e-479c-8c9d-e2178045974c" />
+
+Weather Table after Normalizing TEMPARATURE, HUMIDITY:
+<img width="1232" height="735" alt="image" src="https://github.com/user-attachments/assets/c4b20818-5b95-4233-82ef-e2f7d9008e60" />
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
