@@ -101,6 +101,14 @@ Weather table after adding and attriute
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+Removing the last column in employee table
+<img width="1231" height="742" alt="image" src="https://github.com/user-attachments/assets/5a19b40e-3a00-40b0-87d9-a5d055eba627" />
+
+Removing last column in weather table
+<img width="1232" height="738" alt="image" src="https://github.com/user-attachments/assets/e8fa23e2-2208-4300-9661-81199d53e0b0" />
+
+
+
 
 ### Normalize -> Pre-Processing Technique:
 
